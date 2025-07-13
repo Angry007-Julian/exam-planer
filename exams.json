@@ -1,3 +1,34 @@
 {
-  "exams": []
+  "exams": [
+    {
+      "id": "fa0fd649-3f44-4b2f-8413-2e68ef5f4dc6",
+      "name": "Prog 2 Klausur",
+      "date": "2025-07-18"
+    },
+    {
+      "id": "263fa68d-2937-4f41-896d-7a75fee17e30",
+      "name": "KuP Klausur",
+      "date": "2025-07-23"
+    },
+    {
+      "id": "40816007-28a3-4130-abb8-51d6bbb8338d",
+      "name": "Alg. Grundlagen Mathe",
+      "date": "2025-07-25"
+    },
+    {
+      "id": "d44495d9-fba0-4c0d-bff5-fe745b71000d",
+      "name": "WebApp Klausur",
+      "date": "2025-07-28"
+    },
+    {
+      "id": "2cb84b1f-40d5-443a-96a1-73d746151030",
+      "name": "Mathe 1 Wiederholung",
+      "date": "2025-08-05"
+    },
+    {
+      "id": "df5bc44d-1e47-46f6-8753-e5ba93547027",
+      "name": "SE-Klausur",
+      "date": "2025-08-08"
+    }
+  ]
 }
